@@ -84,5 +84,6 @@ li a.active{
 li a:hover:not(.active){
     background-color: black;
     color:white;
+    
 }
 
